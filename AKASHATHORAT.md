@@ -2,7 +2,7 @@
 
 <img width= 100% src="https://www.allthingsdistributed.com/images/blockchain-banner.jpg">
 
-<h1 align="center">Hi 👋, I'm Kunal Dhongade</h1>
+<h1 align="center">Hi 👋, I'm Akash Thorat</h1>
 
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
