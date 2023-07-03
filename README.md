@@ -24,7 +24,7 @@
 
 # ![akashathorat's github stats](https://github-readme-stats.vercel.app/api?username=akashathorat&theme=omni&show_icons=true)
 
-**<img computer="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashathorat&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
+**<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashathorat&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
 --- 
 
