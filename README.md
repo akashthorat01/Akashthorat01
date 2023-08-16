@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Akash Thorat</h1>
 
 <h3 align="center">A passionate WEB developer from India</h3>
@@ -17,6 +15,8 @@
 </p>
 
 </div>
+
+<img src="a2.jpg">
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=akashathorat.visitor-badge)
 
