@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="a2.jpg">
+<img src="/home/akash/Desktop/Programming/HTML/HTML program's/a2.jpg">
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=akashathorat.visitor-badge)
 
