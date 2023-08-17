@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akash Thorat</h1>
+<h1 style="background-color:chartreuse">>Hi 👋, I'm Akash Thorat</h1>
 
-<h3 align="center">A Passionate WEB Developer From India</h3>
+<h3 style="color:cyan; font-style:italic">A Passionate WEB Developer From India</h3>
 
 <h3 align="left">Connect with me:</h3>
 
