@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/theakashthorat" target="blank"><img src="https://img.shields.io/twitter/follow/theakashthorat?logo=twitter&style=for-the-badge" alt="theakashthorat" /></a> </p>
 
-- 📫 How to reach me **akashathorat@gmail.com**
+- 📫 How to reach me **akashathorat2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
