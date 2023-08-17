@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash Thorat</h1>
 
-<h3 align="center">A passionate WEB developer from India</h3>
+<h3 align="center">A Passionate WEB Developer From India</h3>
 
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
 
-<p align="left">
+<p style="background-color: aqua; color: black">
 
 <a href="https://twitter.com/iamtheakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashthorat" height="30" width="40" /></a>
 
