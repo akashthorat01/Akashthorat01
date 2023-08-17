@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akashathorat</h1>
 <h3 align="center">A Passionate WEB Developer From India.</h3>
 
-<img align= "right" alt="coding" width="400" src=""![image](https://github.com/Akashathorat/Akashathorat/assets/116056217/d0f982b9-9366-4408-9d63-e9d20be3b849)
+<img align= "right" alt="coding" width="400" src=""![image](https://github.com/Akashathorat/Akashathorat/assets/116056217/14176dd2-e22a-4845-a737-d52ab0da1f93)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashathorat&label=Profile%20views&color=0e75b6&style=flat" alt="akashathorat" /> </p>
