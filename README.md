@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashathorat" alt="akashathorat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/theakashthorat" target="blank"><img src="https://img.shields.io/twitter/follow/theakashthorat?logo=twitter&style=for-the-badge" alt="theakashthorat" /></a> </p>
-
 - 📫 How to reach me **akashathorat2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
