@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akashathorat</h1>
 <h3 align="center">A Passionate WEB Developer From India.</h3>
 
-<img align= "right" alt="coding" width="400" src="https://www.geeky-gadgets.com/wp-content/uploads/2023/06/can-you-use-Chat-GPT-to-write-code.webp"
+<img align= "right" alt="coding" width="400" src=""![image](https://github.com/Akashathorat/Akashathorat/assets/116056217/d0f982b9-9366-4408-9d63-e9d20be3b849)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashathorat&label=Profile%20views&color=0e75b6&style=flat" alt="akashathorat" /> </p>
 
