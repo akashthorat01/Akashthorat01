@@ -20,6 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2>HTML</h2> || <h2>CSS</h2> || <h2>JavaScript</h2> || <h2>Java</h2> || <h2>DSA</h2>
+<h2>HTML || CSS || JavaScript || Java || DSA</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashathorat&show_icons=true&locale=en&layout=compact" alt="akashathorat" /></p>
