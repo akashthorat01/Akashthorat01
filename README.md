@@ -1,7 +1,7 @@
 ![logo](https://github.com/Akashthorat01/Akashthorat01/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Akash Thorat</h1>
-<h3 align="center">A Passionate WEB Developer From India.</h3>
+<h3 align="center">A Passionate Java Full Stack WEB Developer From India.</h3>
 <i><p align="center">👋 Hello! I'm Akash Thorat, a passionate full stack developer with a penchant for creating innovative digital solutions.</p></i>
 
 
