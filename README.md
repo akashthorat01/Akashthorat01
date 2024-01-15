@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Thorat</h1>
 <h3 align="center">A Passionate WEB Developer From India.</h3>
-<i><p>👋 Hello! I'm Akash Thorat, a passionate full stack developer with a penchant for creating innovative digital solutions.</p></i>
+<i><p align="center">👋 Hello! I'm Akash Thorat, a passionate full stack developer with a penchant for creating innovative digital solutions.</p></i>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashthorat01" alt="akashthorat01" /></a> </p>
