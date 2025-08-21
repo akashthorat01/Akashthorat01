@@ -50,10 +50,10 @@
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/akashthorat01"><img src="https://img.shields.io/badge/-Akash%20Thorat-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:akashthorat2023@gmail.com"><img src="https://img.shields.io/badge/-akashthorat2023@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="mailto:akashathorat2020@gmail.com"><img src="https://img.shields.io/badge/-akashathorat2020@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://github.com/akashthorat01"><img src="https://img.shields.io/badge/-@akashthorat01-181717?style=flat&logo=GitHub&logoColor=white"></a>
+<a href="https://facebook.com/akashthorat001"><img src="https://img.shields.io/badge/-@Akashthorat001-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
 </p>
 
 <hr>
-<p>Credits: Inspired by <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
 <p>Last Edited on: 21/08/2025</p>
