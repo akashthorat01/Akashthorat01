@@ -7,7 +7,7 @@
 📚 &nbsp;7 months of experience building responsive, user-friendly & high-performance web applications.<br>
 🌱 &nbsp;Currently learning and growing in <b>Web3, Smart Contracts, and Decentralized Applications</b>.<br>
 💡 &nbsp;I love solving problems, creating impactful designs, and experimenting with emerging technologies.<br>
-✉️ &nbsp;Reach out via <a href="mailto:akashathorat2020@gmail.com">akashthorat2023@gmail.com</a><br>
+✉️ &nbsp;Reach out via <a href="mailto:akashathorat2020@gmail.com">akashathorat2020@gmail.com</a><br>
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
